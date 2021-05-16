@@ -1,5 +1,5 @@
 # Projeft: Anime Face Generation by Using DGAN
-### Team number: Pengfei Yao, Ruixuan Zhang
+### Team mumber: Pengfei Yao, Ruixuan Zhang
 Our Project is aiming to generate anime face by using DGAN. 
 ## Discriminator:
 The input of discriminator only has input image as size(64,64,3). However, the output is [the probability of real image, color oof hair, color of eyes].
